@@ -1,1 +1,2 @@
 file2 content added
+line2 content added
