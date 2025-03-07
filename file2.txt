@@ -1,3 +1,4 @@
 file2 content added
 line2 content added
 line3 content added
+line4 content added
